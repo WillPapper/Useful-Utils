@@ -14,6 +14,9 @@ Guidelines
 Guidelines for adding scripts are quite loose to make contributing as easy as possible. While scripts should be relatively small and self-contained (i.e. just a few files, not an entire program), they can be written in any language and can serve any purpose.
 
 **To add a utility, simply follow these three steps:**
+
 1. Copy the "useful-utils-template" directory
+
 2. Fill out the README and add your code
+
 3. Submit a pull request
