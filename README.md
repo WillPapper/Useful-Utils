@@ -19,6 +19,6 @@ Guidelines for adding scripts are quite loose to make contributing as easy as po
 
 2. Copy the ["useful-utils-template"](https://github.com/wpapper/Useful-Utils/tree/master/useful-utils-template) directory and rename it to your utility's name. If you're confused, take a look at [useful-utils-example](https://github.com/wpapper/Useful-Utils/tree/master/useful-utils-example).
 
-3. Fill out the README and add your code
+3. Fill out the README and add your code. You can optionally change to a license other than the MIT License by updating the LICENSE file.
 
 4. Submit a pull request
