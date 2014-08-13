@@ -15,7 +15,7 @@ Guidelines for adding scripts are quite loose to make contributing as easy as po
 
 **To add a utility, simply follow these three steps:**
 
-1. Copy the "useful-utils-template" directory
+1. Copy the "useful-utils-template" directory and rename it to your utility's name
 
 2. Fill out the README and add your code
 
