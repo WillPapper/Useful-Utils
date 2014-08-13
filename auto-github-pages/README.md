@@ -5,6 +5,8 @@ Automatically copies master to gh-pages. This is very useful when you're coding 
 
 Details
 -------
+Author: William Papper
+
 Dependencies: git
 
 Installation instructions:

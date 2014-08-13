@@ -5,6 +5,8 @@ Short description
 
 Details
 -------
+Author:
+
 Dependencies:
 
 Installation instructions:

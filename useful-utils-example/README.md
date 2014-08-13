@@ -5,6 +5,8 @@ A simple script to serve as an example for Useful Utils.
 
 Details
 -------
+Author: William Papper
+
 Dependencies: Python 2
 
 Installation instructions:
