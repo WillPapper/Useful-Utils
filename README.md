@@ -13,10 +13,12 @@ Guidelines
 ----------
 Guidelines for adding scripts are quite loose to make contributing as easy as possible. While scripts should be relatively small and self-contained (i.e. just a few files, not an entire program), they can be written in any language and can serve any purpose.
 
-**To add a utility, simply follow these three steps:**
+**To add a utility, simply follow these four steps:**
 
-1. Copy the "useful-utils-template" directory and rename it to your utility's name
+1. Fork this repository
 
-2. Fill out the README and add your code
+2. Copy the ["useful-utils-template"](https://github.com/wpapper/Useful-Utils/tree/master/useful-utils-template) directory and rename it to your utility's name. If you're confused, take a look at [useful-utils-example](https://github.com/wpapper/Useful-Utils/tree/master/useful-utils-example).
 
-3. Submit a pull request
+3. Fill out the README and add your code
+
+4. Submit a pull request
