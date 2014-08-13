@@ -17,7 +17,7 @@ Usage instructions:
 
 1. ```cd [your git repo]```
 
-2. ```auto-github-pages```
+2. Run ```auto-github-pages```
 
 Other details:
 
